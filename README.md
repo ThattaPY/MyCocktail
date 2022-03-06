@@ -1,5 +1,5 @@
 # MyCocktail
- Android native (Kotlin) App - API REST CONSUME training
+Android native (Kotlin) App - API REST CONSUME training I
 ---
 This app use a free API REST JSON response to show results in a recyclerView with an adapter with viewHolder. 
 The views uses viewBinding.
